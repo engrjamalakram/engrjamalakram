@@ -43,9 +43,21 @@ Highlights: Agentic observe → reason → act → observe architecture, securit
 
 ### 3. Enterprise RAG Chatbot
 
-A retrieval-augmented generation chatbot project designed to make information accessible through conversational question answering over a knowledge base.
+An end-to-end Retrieval-Augmented Generation (RAG) application that enables users to ask questions about documents and receive AI-generated answers grounded in retrieved information.
 
-🔗 [View repository](https://github.com/engrjamalakram/Enterprise-RAG-Chatbot)
+**Key capabilities**
+- Document ingestion for knowledge-base content
+- OpenAI embeddings for semantic representation
+- Qdrant-powered semantic search
+- Relevance filtering to improve retrieved context
+- Source attribution to support answer traceability
+- FastAPI endpoints for application integration
+
+**Tech stack:** Python, OpenAI API, Qdrant, FastAPI, Retrieval-Augmented Generation (RAG)
+
+**Highlights:** Combines document retrieval and LLM-powered question answering in a structured application workflow.
+
+🔗 [View repository and implementation](https://github.com/engrjamalakram/Enterprise-RAG-Chatbot)
 
 ## 🛠️ Areas of Focus
 
