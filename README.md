@@ -25,9 +25,21 @@ A multi-agent AI platform that analyzes business information, generates evidence
 
 ### 2. ORBIT — AI Computer Control & Automation Agent
 
-An AI-powered computer control and automation project focused on connecting AI reasoning with computer-based actions.
+An agentic AI system that lets users control a Windows computer through natural-language instructions. ORBIT combines Claude-based reasoning, screenshot-based computer vision, voice interaction, and 38 computer-control tools.
 
-🔗 [View repository](https://github.com/engrjamalakram/ORBIT-AI-Computer-Agent)
+
+**Key capabilities**
+
+- Natural-language computer control using mouse and keyboard actions
+- Screenshot-based screen understanding
+- Application, window, file, and system operations
+- Voice input and voice responses
+- Multi-step task execution and session-based conversational memory
+- Security gateway with allow, confirm, and deny controls
+
+Highlights: Agentic observe → reason → act → observe architecture, security-aware execution, and Windows automation.
+
+🔗 View repository and demonstrations (https://github.com/engrjamalakram/ORBIT-AI-Computer-Agent)
 
 ### 3. Enterprise RAG Chatbot
 
